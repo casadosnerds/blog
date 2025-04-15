@@ -1,9 +1,8 @@
 site: Casa dos Nerds
 title: Um blog de nerd para nerds
 greetings: Bem vindo à Casa dos Nerds!🤓🖖
-description: >-
- Um blog de nerd para nerds
-lang: pt-BR
+description: >-Um blog de nerd para nerds
+lang: pt-BR 
 timezone:  America/Sao_Paulo
 repo: https://github.com/huvuptvbz/blog # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
