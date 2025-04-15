@@ -1,6 +1,6 @@
-site: Huvuptvbz blog
+site: Casa dos Nerds
 title: Um blog de nerd para nerds
-greetings: Huvuptvbz 👋
+greetings: Bem vindo à Casa dos Nerds!🤓🖖
 description: >-
  Um blog de nerd para nerds
 lang: pt-BR
@@ -19,14 +19,14 @@ author:
   twitter: # twitter username
   mastodon: # mastodon profile (ex. mastodon.social/@my_username)
   linkedin: # linkedin profile
-  email: pablomalmeida7@gmai.com # email adress
+  email: almeida_pm@disroot.org # email adress
 
 # Font Settings
 googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
 
 # URL settings
-url: "https://marlluslustosa.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/Gesko" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+url: "https://casadosnerds.github.io" # Domain Name of host. [username].github.io for github pages
+baseurl: "/blog" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
 # local
