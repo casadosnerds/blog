@@ -1,5 +1,5 @@
 site: Casa dos Nerds
-title: Casa dos Nerds - 
+title: Casa dos Nerds 
 greetings: Bem vindo à Casa dos Nerds! 🖖
 description: >-
   Um blog de nerd para nerds
@@ -8,7 +8,7 @@ timezone:  America/Sao_Paulo
 repo: https://github.com/casadosnerds/blog # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: powex # replace with your disqus shortname
-comments-enabled: true # true to enable disqus comments, false to hide them
+comments-enabled: false # true to enable disqus comments, false to hide them
 
 author:
   name: Huvuptvbz
