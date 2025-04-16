@@ -40,7 +40,14 @@ layout: default
         {% for post in site.posts %}
         <li>
 		<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y" }}</time>
+		
+<time datetime="{{ post.date | date_to_xmlschema }}">
+  {% assign months = "jan,fev,mar,abr,mai,jun,jul,ago,set,out,nov,dez" | split: "," %}
+  {% assign month_index = post.date | date: "%-m" | minus: 1 %}
+  {% assign month_abbr = months[month_index] %}
+  {{ post.date | date: "%d" }} {{ month_abbr }} {{ post.date | date: "%Y" }}
+</time>
+
         </li>
         {% endfor %}
     </ul>
