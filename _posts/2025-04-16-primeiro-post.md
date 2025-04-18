@@ -6,7 +6,7 @@ summary: Vamos testar o blog
 tags: tecnologia
 minute: 5
 ---
-img ![](https://images.unsplash.com/photo-1573481193569-c00872fb99fb?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;dl=k-mitch-hodge-yTVqCMI2yPY-unsplash.jpg&amp;w=2400)
+![](https://images.unsplash.com/photo-1573481193569-c00872fb99fb?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;dl=k-mitch-hodge-yTVqCMI2yPY-unsplash.jpg&amp;w=2400)
 
 Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee  cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.
 
