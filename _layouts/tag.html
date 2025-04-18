@@ -1,20 +1,27 @@
+Aqui está o template completo pronto para copiar e colar:
+
+```liquid
 ---
 layout: default
 ---
 
-
-
 <section class="posts">
   <div class="flex-row-between">
-    <h1>Tag #{{page.tag}}</h1>
+    <h1>Tag #{{ page.tag }}</h1>
     <a href="{{ site.url }}{{ site.baseurl }}"><i class="fa fa-home" aria-hidden="true"></i> Home</a>
   </div>
   <ul>
+    {% assign meses = "jan,fev,mar,abr,mai,jun,jul,ago,set,out,nov,dez" | split: "," %}
     {% for post in site.posts %}
-    {% if post.tags contains page.tag %}
-    <li><a class="post" href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a><time
-        datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y" }}</time></li>
-    {% endif %}
+      {% if post.tags contains page.tag %}
+        {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
+        <li>
+          <a class="post" href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          <time datetime="{{ post.date | date_to_xmlschema }}">
+            {{ post.date | date: "%d" }} {{ meses[mes_index] }} {{ post.date | date: "%Y" }}
+          </time>
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
 </section>
@@ -23,13 +30,14 @@ layout: default
   <h2>All tags:</h2>
   {% assign tags = site.tags | sort %}
   {% for tag in tags %}
-  <ul>
-    <li>
-	    <a class="posts" href="{{ site.url }}{{ site.baseurl }}/tag/{{ tag | first | slugify }}/">{{ tag[0] | replace:'-', ' '
-        }} ({{ tag | last | size
-        }}){% unless forloop.last %}, {% endunless %}
-      </a>
-    </li>
-  </ul>
+    <ul>
+      <li>
+        <a class="posts" href="{{ site.url }}{{ site.baseurl }}/tag/{{ tag | first | slugify }}/">
+          {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
+          {% unless forloop.last %}, {% endunless %}
+        </a>
+      </li>
+    </ul>
   {% endfor %}
 </section>
+```
