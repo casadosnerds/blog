@@ -12,7 +12,7 @@ minute: 5
 
 &nbsp;O Android é cheio de segredos que a Google prefere manter escondidos. Alguns podem melhorar sua produtividade, outros podem expor falhas de segurança ou até burlar restrições impostas pela Big Tech. Neste artigo, vamos revelar **10 truques obscuros do Android** que podem mudar a forma como você usa seu smartphone.
 
-![10 Truques Obscuros do Android que a Google Não Quer que Você Descubra](https://i.imgur.com/QRjRf6G.png)
+[![10 Truques Obscuros do Android que a Google Não Quer que Você Descubra](https://i.imgur.com/QRjRf6G.png)]()
 
 *Se você gosta de explorar o sistema, cuidado: alguns desses métodos podem anular sua garantia ou expor seus dados. Use por sua conta e risco!*
 
@@ -24,9 +24,6 @@ Esse menu mostra informações como **força do sinal, estatísticas de Wi-Fi e 
 
 *Dica: Algumas operadoras bloqueiam esse código. Se não funcionar, tente apps como* [***Phone Info Samsung***](https://play.google.com/store/apps/details?id=io.uax.phoneinfo&amp;hl=en-US&amp;pli=1){: target="_blank" rel="noopener"} *ou* [***NetMonster***](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster&amp;hl=en-US)*.*&nbsp;
 
-<script async="async" data-cfasync="false" src="//empireneithermovies.com/b98c035d7578af7dbfa24e41c4890e8b/invoke.js"></script>
-<div id="container-b98c035d7578af7dbfa24e41c4890e8b"></div>
-
 ## 2\. Desbloquear Opções de Desenvolvedor Ocultas
 
 &nbsp;Todo mundo conhece o  Modo Desenvolvedor, mas poucos sabem que existem ***configurações ainda mais profundas***. Depois de ativar o modo desenvolvedor (Toque 7 vezes em “Número da versão” nas Configurações), vá em **“Opções do desenvolvedor” &gt; “SystemUI Tuner”.**
@@ -37,9 +34,6 @@ Aqui, você pode **personalizar ícones da barra de status, remover o botão de 
 
 &nbsp;
 
-<script async="async" data-cfasync="false" src="//empireneithermovies.com/b98c035d7578af7dbfa24e41c4890e8b/invoke.js"></script>
-<div id="container-b98c035d7578af7dbfa24e41c4890e8b"></div>
-
 ## 3\. Forçar o Modo Escuro em Qualquer App
 
 A Google limita o modo escuro a apps compatíveis, mas você pode forçá-lo em qualquer app. Vá para **“Configurações” &gt; “Sistema” &gt; “Opções de desenvolvedor”e ative “Modo escuro forçado”**.
@@ -47,9 +41,6 @@ A Google limita o modo escuro a apps compatíveis, mas você pode forçá-lo em 
 Isso faz com que apps como ***Instagram*** e ***WhatsApp*** exibam telas escuras, mesmo sem suporte nativo. O problema? Algumas interfaces podem ficar ilegíveis ou com bugs visuais.
 
 *Se o app travar, desative a opção e reinicie.*
-
-<script async="async" data-cfasync="false" src="//empireneithermovies.com/b98c035d7578af7dbfa24e41c4890e8b/invoke.js"></script>
-<div id="container-b98c035d7578af7dbfa24e41c4890e8b"></div>
 
 ## 4\. Instalar Apps Banidos da Play Store
 
@@ -59,8 +50,19 @@ Para instalar, você precisa habilitar **“Fontes desconhecidas”** e baixar o
 
 *Aviso: Isso pode violar termos de serviço e expor seu dispositivo a riscos.*
 
-<script async="async" data-cfasync="false" src="//empireneithermovies.com/b98c035d7578af7dbfa24e41c4890e8b/invoke.js"></script>
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 <div id="container-b98c035d7578af7dbfa24e41c4890e8b"></div>
+
+&nbsp;
 
 ## 5\. Usar o Android como um PC com Linux
 
@@ -69,9 +71,6 @@ Com apps como [**Termux**](https://termux.dev/en/) e [**UserLAnd**](https://play
 Basta instalar um terminal avançado e configurar um ambiente **chroo**t ou **proot**. A Google não promove esse recurso porque ele pode ser usado para contornar restrições de segurança.
 
 *Dica: Combine com um teclado Bluetooth e um monitor via HDMI para um “PC de bolso”.*
-
-<script async="async" data-cfasync="false" src="//empireneithermovies.com/b98c035d7578af7dbfa24e41c4890e8b/invoke.js"></script>
-<div id="container-b98c035d7578af7dbfa24e41c4890e8b"></div>
 
 &nbsp;
 
@@ -93,9 +92,6 @@ Isso remove o app **apenas para o seu usuário**, sem afetar outros.
 
 &nbsp;
 
-<script async="async" data-cfasync="false" src="//empireneithermovies.com/b98c035d7578af7dbfa24e41c4890e8b/invoke.js"></script>
-<div id="container-b98c035d7578af7dbfa24e41c4890e8b"></div>
-
 ## 7\. Gravar a Tela sem Avisos (Até em Apps Bloqueados)
 
 &nbsp;O Android exibe um aviso ao gravar a tela, mas você pode desativá-lo via ADB:
@@ -112,9 +108,6 @@ Isso permite **gravar telas de banco, jogos e apps restritos** sem notificação
 
 &nbsp;
 
-<script async="async" data-cfasync="false" src="//empireneithermovies.com/b98c035d7578af7dbfa24e41c4890e8b/invoke.js"></script>
-<div id="container-b98c035d7578af7dbfa24e41c4890e8b"></div>
-
 ## 8\. Acelerar o Celular Desativando Animações
 
 Seu Android parece lento? **Reduza ou desative as animações** em **“Opções do desenvolvedor”:**
@@ -130,9 +123,6 @@ Isso faz o sistema **responder mais rápido**, especialmente em dispositivos ant
 *Resultado imediato: Seu celular vai parecer mais rápido.*
 
 &nbsp;
-
-<script async="async" data-cfasync="false" src="//empireneithermovies.com/b98c035d7578af7dbfa24e41c4890e8b/invoke.js"></script>
-<div id="container-b98c035d7578af7dbfa24e41c4890e8b"></div>
 
 ## 9\. Acessar uma Versão Ocultada do Google Chrome
 
@@ -151,9 +141,6 @@ Alguns recursos são instáveis e podem travar o navegador. A Google testa essas
 *Dica: Anote as flags antes de alterar para reverter se necessário.*
 
 &nbsp;
-
-<script async="async" data-cfasync="false" src="//empireneithermovies.com/b98c035d7578af7dbfa24e41c4890e8b/invoke.js"></script>
-<div id="container-b98c035d7578af7dbfa24e41c4890e8b"></div>
 
 ## 10\. Espionar Permissões em Tempo Real com “Bares”
 
