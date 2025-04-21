@@ -90,7 +90,7 @@ Isso remove o app **apenas para o seu usuário**, sem afetar outros.
 
 &nbsp;
 
-O Android exibe um aviso ao gravar a tela, mas você pode \*\*desativá-lo\*\* via ADB:
+O Android exibe um aviso ao gravar a tela, mas você pode desativá-lo via ADB:
 
 \`\`\`bash
 
