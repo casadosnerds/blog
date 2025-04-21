@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 10 Truques Obscuros do Android que a Google Não Quer que Você Descubra
-description: Vamos testar o blog
-summary: Vamos testar o blog
+description: >-
+  Descubra 10 truques obscuros do Android que a Google não quer que você saiba.
+  Desde menus secretos até gravação de tela sem aviso!
+summary: 10 Truques Obscuros do Android
 tags: tecnologia
 minute: 5
 ---
@@ -80,9 +82,11 @@ Isso remove o app **apenas para o seu usuário**, sem afetar outros.
 
 &nbsp;O Android exibe um aviso ao gravar a tela, mas você pode desativá-lo via ADB:
 
-> *bash*
->
-> *adb shell settings put global settings\_screenrecord\_notification 0*
+{% highlight shell %}
+bash
+
+adb shell settings put global settings_screenrecord_notification 0
+{% endhighlight %}
 
 Isso permite **gravar telas de banco, jogos e apps restritos** sem notificação. Alguns apps ainda podem detectar e bloquear a gravação.
 
