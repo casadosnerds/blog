@@ -30,9 +30,7 @@ Esse menu mostra informações como **força do sinal, estatísticas de Wi-Fi e 
 
 Aqui, você pode **personalizar ícones da barra de status, remover o botão de energia** e até alterar animações do sistema. Algumas opções foram removidas em versões recentes do Android, mas ainda podem ser acessadas via ADB.
 
-*Cuidado: Mexer aqui pode causar bugs ou até bootloop. Faça backup antes!*
-
-&nbsp;![ads 1](/uploads/banner-1.gif)
+*Cuidado: Mexer aqui pode causar bugs ou até bootloop. Faça backup antes!*&nbsp;[![ads 1](/uploads/banner-1.gif)](https://cl1ca.com/vagas-de-emprego-br)
 
 ## 3\. Forçar o Modo Escuro em Qualquer App
 
