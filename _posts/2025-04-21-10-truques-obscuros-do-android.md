@@ -24,6 +24,9 @@ Esse menu mostra informações como **força do sinal, estatísticas de Wi-Fi e 
 
 *Dica: Algumas operadoras bloqueiam esse código. Se não funcionar, tente apps como* [***Phone Info Samsung***](https://play.google.com/store/apps/details?id=io.uax.phoneinfo&amp;hl=en-US&amp;pli=1){: target="_blank" rel="noopener"} *ou* [***NetMonster***](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster&amp;hl=en-US)*.*&nbsp;
 
+<script async="async" data-cfasync="false" src="//empireneithermovies.com/b98c035d7578af7dbfa24e41c4890e8b/invoke.js"></script>
+<div id="container-b98c035d7578af7dbfa24e41c4890e8b"></div>
+
 ## 2\. Desbloquear Opções de Desenvolvedor Ocultas
 
 &nbsp;Todo mundo conhece o  Modo Desenvolvedor, mas poucos sabem que existem ***configurações ainda mais profundas***. Depois de ativar o modo desenvolvedor (Toque 7 vezes em “Número da versão” nas Configurações), vá em **“Opções do desenvolvedor” &gt; “SystemUI Tuner”.**
