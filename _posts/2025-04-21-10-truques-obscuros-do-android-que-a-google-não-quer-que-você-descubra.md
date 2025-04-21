@@ -8,9 +8,9 @@ minute: 5
 ---
 # 10 Truques Obscuros do Android que a Google Não Quer que Você Descubra
 
-&nbsp;O Android é cheio de segredos que a Google prefere manter escondidos. Alguns podem melhorar sua produtividade, outros podem expor falhas de segurança ou até burlar restrições impostas pela Big Tech. Neste artigo, vamos revelar \*\*10 truques obscuros do Android\*\* que podem mudar a forma como você usa seu smartphone.
+&nbsp;O Android é cheio de segredos que a Google prefere manter escondidos. Alguns podem melhorar sua produtividade, outros podem expor falhas de segurança ou até burlar restrições impostas pela Big Tech. Neste artigo, vamos revelar **10 truques obscuros do Android** que podem mudar a forma como você usa seu smartphone.
 
-![10 Truques Obscuros do Android que a Google Não Quer que Você Descubra](https://i.imgur.com/1YFG8Ue.png)
+![10 Truques Obscuros do Android que a Google Não Quer que Você Descubra](https://i.imgur.com/QRjRf6G.png)
 
 *Se você gosta de explorar o sistema, cuidado: alguns desses métodos podem anular sua garantia ou expor seus dados. Use por sua conta e risco!*
 
@@ -20,13 +20,13 @@ Você sabia que existe um menu **secreto de testes de hardware** no Android? Ele
 
 Esse menu mostra informações como **força do sinal, estatísticas de Wi-Fi e bateria**, mas também pode travar seu celular se usado incorretamente. A Google não divulga esse código porque ele permite ajustes avançados que podem comprometer a estabilidade do sistema.
 
-*Dica: Algumas operadoras bloqueiam esse código. Se não funcionar, tente apps como **Phone Info Samsung** ou **NetMonster**.*
-
-## 2\. Desbloquear Opções de Desenvolvedor Ocultas
+*Dica: Algumas operadoras bloqueiam esse código. Se não funcionar, tente apps como* [***Phone Info Samsung***](https://play.google.com/store/apps/details?id=io.uax.phoneinfo&amp;hl=en-US&amp;pli=1){: target="_blank" rel="noopener"}*ou* [***NetMonster***](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster&amp;hl=en-US)*.*
 
 &nbsp;
 
-Todo mundo conhece o  Modo Desenvolvedor, mas poucos sabem que existem ***configurações ainda mais profundas***. Depois de ativar o modo desenvolvedor (Toque 7 vezes em “Número da versão” nas Configurações), vá em “Opções do desenvolvedor” &gt; “SystemUI Tuner”.
+## 2\. Desbloquear Opções de Desenvolvedor Ocultas
+
+&nbsp;Todo mundo conhece o  Modo Desenvolvedor, mas poucos sabem que existem ***configurações ainda mais profundas***. Depois de ativar o modo desenvolvedor (Toque 7 vezes em “Número da versão” nas Configurações), vá em **“Opções do desenvolvedor” &gt; “SystemUI Tuner”.**
 
 Aqui, você pode **personalizar ícones da barra de status, remover o botão de energia** e até alterar animações do sistema. Algumas opções foram removidas em versões recentes do Android, mas ainda podem ser acessadas via ADB.
 
@@ -36,8 +36,6 @@ Aqui, você pode **personalizar ícones da barra de status, remover o botão de 
 
 ## 3\. Forçar o Modo Escuro em Qualquer App
 
-\##
-
 A Google limita o modo escuro a apps compatíveis, mas você pode forçá-lo em qualquer app. Vá para **“Configurações” &gt; “Sistema” &gt; “Opções de desenvolvedor”e ative “Modo escuro forçado”**.
 
 Isso faz com que apps como ***Instagram*** e ***WhatsApp*** exibam telas escuras, mesmo sem suporte nativo. O problema? Algumas interfaces podem ficar ilegíveis ou com bugs visuais.
@@ -46,9 +44,7 @@ Isso faz com que apps como ***Instagram*** e ***WhatsApp*** exibam telas escuras
 
 ## 4\. Instalar Apps Banidos da Play Store
 
-&nbsp;
-
-A Google remove apps que violam suas políticas, mas muitos ainda funcionam. Sites como APKMirror e Aptoide mantêm versões de apps como YouTube Vanced, Lucky Patcher e AdAway.
+&nbsp;A Google remove apps que violam suas políticas, mas muitos ainda funcionam. Sites como [**APKMirror**](https://www.apkmirror.com/){: target="_blank" rel="noopener"} e [**Aptoide**](https://aptoide.br.aptoide.com/app){: target="_blank" rel="noopener"} mantêm versões de apps como YouTube Vanced, Lucky Patcher e AdAway.
 
 Para instalar, você precisa habilitar **“Fontes desconhecidas”** e baixar o APK manualmente. Alguns apps podem conter malware, então sempre verifique as permissões antes de instalar.
 
@@ -56,7 +52,7 @@ Para instalar, você precisa habilitar **“Fontes desconhecidas”** e baixar o
 
 ## 5\. Usar o Android como um PC com Linux
 
-Com apps como **Termux** e **UserLAnd**, você pode executar um sistema Linux completo no seu Android. Isso permite rodar servidores, scripts Python e até ferramentas de hacking como Metasploit.
+Com apps como [**Termux**](https://termux.dev/en/) e [**UserLAnd**](https://play.google.com/store/apps/details?id=tech.ula&amp;hl=pt-BR), você pode executar um sistema Linux completo no seu Android. Isso permite rodar servidores, scripts Python e até ferramentas de hacking como Metasploit.
 
 Basta instalar um terminal avançado e configurar um ambiente **chroo**t ou **proot**. A Google não promove esse recurso porque ele pode ser usado para contornar restrições de segurança.
 
