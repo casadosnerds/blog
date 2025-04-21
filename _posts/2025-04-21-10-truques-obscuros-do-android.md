@@ -26,9 +26,6 @@ Esse menu mostra informações como **força do sinal, estatísticas de Wi-Fi e 
 
 &nbsp;
 
-```<script async="async" data-cfasync="false" src="//empireneithermovies.com/b98c035d7578af7dbfa24e41c4890e8b/invoke.js"></script>
-<div id="container-b98c035d7578af7dbfa24e41c4890e8b"></div> </script> 
-```
 
 ## 2\. Desbloquear Opções de Desenvolvedor Ocultas
 
