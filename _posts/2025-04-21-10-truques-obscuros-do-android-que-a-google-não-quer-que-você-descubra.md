@@ -14,15 +14,18 @@ minute: 5
 
 *Se você gosta de explorar o sistema, cuidado: alguns desses métodos podem anular sua garantia ou expor seus dados. Use por sua conta e risco!*
 
-&nbsp;1. Acessar o Modo de Teste Oculto do Android
+## &nbsp;1. Acessar o Modo de Teste Oculto do Android
 
 Você sabia que existe um menu **secreto de testes de hardware** no Android? Ele permite verificar sensores, antenas e até simular falhas. Para acessá-lo, abra o discador e digite **\*#\*#4636#\*#\***.
 
 Esse menu mostra informações como **força do sinal, estatísticas de Wi-Fi e bateria**, mas também pode travar seu celular se usado incorretamente. A Google não divulga esse código porque ele permite ajustes avançados que podem comprometer a estabilidade do sistema.
 
-*Dica: Algumas operadoras bloqueiam esse código. Se não funcionar, tente apps como* [***Phone Info Samsung***](https://play.google.com/store/apps/details?id=io.uax.phoneinfo&amp;hl=en-US&amp;pli=1){: target="_blank" rel="noopener"}*ou* [***NetMonster***](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster&amp;hl=en-US)*.*
+*Dica: Algumas operadoras bloqueiam esse código. Se não funcionar, tente apps como* [***Phone Info Samsung***](https://play.google.com/store/apps/details?id=io.uax.phoneinfo&amp;hl=en-US&amp;pli=1){: target="_blank" rel="noopener"}*ou* [***NetMonster***](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster&amp;hl=en-US)*.*&nbsp;
 
-&nbsp;
+{% highlight javascript %}
+<script async="async" data-cfasync="false" src="//empireneithermovies.com/b98c035d7578af7dbfa24e41c4890e8b/invoke.js"></script>
+<div id="container-b98c035d7578af7dbfa24e41c4890e8b"></div>
+{% endhighlight %}
 
 ## 2\. Desbloquear Opções de Desenvolvedor Ocultas
 
@@ -68,11 +71,9 @@ Se a opção estiver bloqueada, use comandos ADB como:
 
 &nbsp;
 
-*bash*
-
-*adb shell pm uninstall --user 0 nome.do.pacote*
-
-&nbsp;
+> *bash*
+>
+> *adb shell pm uninstall --user 0 nome.do.pacote*
 
 Isso remove o app **apenas para o seu usuário**, sem afetar outros.
 
@@ -82,13 +83,11 @@ Isso remove o app **apenas para o seu usuário**, sem afetar outros.
 
 ## 7\. Gravar a Tela sem Avisos (Até em Apps Bloqueados)
 
-&nbsp;
+&nbsp;O Android exibe um aviso ao gravar a tela, mas você pode desativá-lo via ADB:
 
-O Android exibe um aviso ao gravar a tela, mas você pode desativá-lo via ADB:
-
-*bash*
-
-*adb shell settings put global settings\_screenrecord\_notification 0*
+> *bash*
+>
+> *adb shell settings put global settings\_screenrecord\_notification 0*
 
 Isso permite **gravar telas de banco, jogos e apps restritos** sem notificação. Alguns apps ainda podem detectar e bloquear a gravação.
 
