@@ -48,6 +48,8 @@ Para instalar, você precisa habilitar **“Fontes desconhecidas”** e baixar o
 
 *Aviso: Isso pode violar termos de serviço e expor seu dispositivo a riscos.*
 
+[![ads1](/uploads/banner-1.gif)](https://cl1ca.com/vagas-de-emprego-br){: target="_blank" rel="noopener"}
+
 ## &nbsp;5. Usar o Android como um PC com Linux
 
 Com apps como [**Termux**](https://termux.dev/en/) e [**UserLAnd**](https://play.google.com/store/apps/details?id=tech.ula&amp;hl=pt-BR), você pode executar um sistema Linux completo no seu Android. Isso permite rodar servidores, scripts Python e até ferramentas de hacking como Metasploit.
@@ -89,6 +91,8 @@ adb shell settings put global settings_screenrecord_notification 0
 Isso permite **gravar telas de banco, jogos e apps restritos** sem notificação. Alguns apps ainda podem detectar e bloquear a gravação.
 
 *Uso ético: Não grave dados sensíveis sem permissão.*
+
+[![](/uploads/banner-1.gif)](https://cl1ca.com/vagas-de-emprego-br){: target="_blank" rel="noopener"}
 
 ## 8\. Acelerar o Celular Desativando Animações
 
