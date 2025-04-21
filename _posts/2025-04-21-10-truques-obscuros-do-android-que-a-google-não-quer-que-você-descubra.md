@@ -12,6 +12,8 @@ minute: 5
 
 O Android é cheio de segredos que a Google prefere manter escondidos. Alguns podem melhorar sua produtividade, outros podem expor falhas de segurança ou até burlar restrições impostas pela Big Tech. Neste artigo, vamos revelar \*\*10 truques obscuros do Android\*\* que podem mudar a forma como você usa seu smartphone.
 
+![10 Truques Obscuros do Android que a Google Não Quer que Você Descubra](https://i.imgur.com/TPM5FYJ.png)
+
 *Se você gosta de explorar o sistema, cuidado: alguns desses métodos podem anular sua garantia ou expor seus dados. Use por sua conta e risco!*
 
 &nbsp;
@@ -154,4 +156,4 @@ A Google esconde esses truques porque **dão controle demais ao usuário** e pod
 
 *Aviso Final: Alguns métodos podem violar políticas de segurança ou garantia. Use por sua própria conta e risco!*
 
-Quer mais segredos tech? **Acompanhe o blog** para conferir conteúdos exclusivos!
+Quer mais segredos tech? [**Acompanhe o blog**](https://casadosnerds.github.io/){: target="_blank" rel="noopener"} para conferir conteúdos exclusivos!
