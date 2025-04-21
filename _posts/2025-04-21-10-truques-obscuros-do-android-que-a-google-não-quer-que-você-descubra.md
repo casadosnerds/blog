@@ -20,9 +20,9 @@ Você sabia que existe um menu **secreto de testes de hardware** no Android? Ele
 
 Esse menu mostra informações como **força do sinal, estatísticas de Wi-Fi e bateria**, mas também pode travar seu celular se usado incorretamente. A Google não divulga esse código porque ele permite ajustes avançados que podem comprometer a estabilidade do sistema.
 
-*Dica: Algumas operadoras bloqueiam esse código. Se não funcionar, tente apps como* [***Phone Info Samsung***](https://play.google.com/store/apps/details?id=io.uax.phoneinfo&amp;hl=en-US&amp;pli=1){: target="_blank" rel="noopener"}*ou* [***NetMonster***](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster&amp;hl=en-US)*.*&nbsp;
+*Dica: Algumas operadoras bloqueiam esse código. Se não funcionar, tente apps como* [***Phone Info Samsung***](https://play.google.com/store/apps/details?id=io.uax.phoneinfo&amp;hl=en-US&amp;pli=1){: target="_blank" rel="noopener"} *** ** ou* [***NetMonster***](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster&amp;hl=en-US)*.*&nbsp;
 
-{% highlight javascript %}
+{% highlight html %}
 <script async="async" data-cfasync="false" src="//empireneithermovies.com/b98c035d7578af7dbfa24e41c4890e8b/invoke.js"></script>
 <div id="container-b98c035d7578af7dbfa24e41c4890e8b"></div>
 {% endhighlight %}
