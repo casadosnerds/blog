@@ -26,6 +26,10 @@ Esse menu mostra informações como **força do sinal, estatísticas de Wi-Fi e 
 
 &nbsp;
 
+{% raw %}
+{% include adsterra1.html %}
+{% endraw %}
+
 
 ## 2\. Desbloquear Opções de Desenvolvedor Ocultas
 
