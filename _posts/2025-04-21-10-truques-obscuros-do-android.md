@@ -30,7 +30,6 @@ Esse menu mostra informações como **força do sinal, estatísticas de Wi-Fi e 
 {% include adsterra1.html %}
 {% endraw %}
 
-
 ## 2\. Desbloquear Opções de Desenvolvedor Ocultas
 
 &nbsp;Todo mundo conhece o  Modo Desenvolvedor, mas poucos sabem que existem ***configurações ainda mais profundas***. Depois de ativar o modo desenvolvedor (Toque 7 vezes em “Número da versão” nas Configurações), vá em **“Opções do desenvolvedor” &gt; “SystemUI Tuner”.**
