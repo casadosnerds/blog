@@ -26,7 +26,7 @@ Esse menu mostra informações como **força do sinal, estatísticas de Wi-Fi e 
 
 &nbsp;
 
-![(/assets/adsterra1.js)]
+<script src="/assets/js/adsterra1.js"></script>
 
 ## 2\. Desbloquear Opções de Desenvolvedor Ocultas
 
